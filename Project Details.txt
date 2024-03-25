@@ -1,0 +1,25 @@
+# Bank_Analytics_Project
+An intuitive bank analytics dashboard that provides comprehensive insights into financial data for informed decision-making.
+
+Project - Bank Analytics Dashboard
+Domain - Finance
+
+In this Project I had created a Power Bi Dashboard of a Bank Data.
+
+These are some Key Performance Indicators I have used in this project -
+
+1. Year wise loan amount Stats.
+
+2. Grade and sub grade wise revol_bal.
+
+3. Total Payment for Verified Status Vs Total Payment for Non Verified Status.
+
+4. State wise and month wise loan status.
+
+5. Home ownership Vs last payment date stats.
+
+6. Purpose wise loan amount.
+
+7. State wise Verification status.
+
+8. Min and max of loan purpose wise.
